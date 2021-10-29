@@ -6,6 +6,6 @@ WISE-6610-A500C/ WISE-6610-A500C-A/ WISE-6610-E100/ WISE-6610-E100-A/ WISE-6610-
 WISE-6610-E500C/ WISE-6610-E500C-A/ WISE-6610-N100/ WISE-6610-N100-A/ WISE-6610-N100C/ WISE-6610-N100C-A/ WISE-6610-N500/ WISE-6610-N500-A/ 
 WISE-6610-N500C/ WISE-6610-N500C-A
 
-For more informaton, You can visit below links.
+For more informaton, You can visit this links.
 https://www.advantech.com/support/details/firmware?id=1-1QUJBFT
 
